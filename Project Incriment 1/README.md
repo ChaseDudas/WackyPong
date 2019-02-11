@@ -14,3 +14,4 @@ Basic ball and paddle functionality
 | This criterion is linked to a Learning Outcome Ball destroyed when outside screen on left or right | 10.0 pts |
 | | Total Points: 100.0 |
 
+![](PI1.gif)
