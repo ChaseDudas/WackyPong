@@ -1,4 +1,4 @@
-# Project Incriment 1
+# Project Increment 1
 
 Basic ball and paddle functionality 
 
