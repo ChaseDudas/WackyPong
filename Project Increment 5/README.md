@@ -10,4 +10,4 @@ Making the hits display accurate for each player.
 | Score displays properly for right player | 25.0 pts |
 | | Total Points: 100.0 |
 
-![pi5]
+![](PI5.gif)
