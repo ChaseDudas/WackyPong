@@ -1,6 +1,6 @@
-# Project Increment 3
+# Project Increment 5
 
-Making the hits display accurate for each player.
+The functionality from the previous increment and also includes bonus balls and the freezer pickup.
 
 | Description       | Points          |
 | ------------- |:-------------:|
