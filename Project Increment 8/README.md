@@ -24,13 +24,16 @@ The functionality from the previous increment and all the sound effects in your 
 ![](PI81.gif)
 
 ### Help Menu
-![](PI82.gif)
+![](PI8_1.gif)
 
 ### 2 player game
-#### Speedup functionality
-![](PI83.gif)
+#### Pause functionality w/ resume and quit and Quit functionality from the main menu
+![](PI8_2.gif)
 
 ### 2 player game (cont.)
-#### Pause functionality w/ resume and quit and Quit functionality from the main menu
-![](PI84.gif)
+#### Right Player Wins
+![](PI8_3.gif)
 
+### 2 player game (cont.)
+#### Left Player Wins
+![](PI8_4.gif)
