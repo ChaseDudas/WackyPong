@@ -20,10 +20,7 @@ The functionality from the previous increment and all the sound effects in your 
 | All balls in play slow down properly when effect ends | 10.0 pts |
 | | Total Points: 100.0 |
 
-### Main Menu
-![](PI81.gif)
-
-### Help Menu
+### Main Menu & Help Menu
 ![](PI8_1.gif)
 
 ### 2 player game
