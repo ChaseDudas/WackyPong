@@ -4,20 +4,20 @@ The functionality from the previous increment and all the sound effects in your 
 
 | Description       | Points          |
 | ------------- |:-------------:|
-| Main menu displays properly when game starts   | 5.0 pts | 
-| All main menu buttons (except one player button) included and highlight and unhighlight properly | 5.0 pts | 
-| Main menu quit button quits game (built game only, not in editor) |  5.0 pts |
-| Main menu help button goes to help menu |  5.0 pts |
-| Help menu displays properly | 5.0 pts |
-| Help menu back button highlights and unhighlights properly and returns to main menu when clicked | 5.0 pts |
-| Pause menu displayed and game paused when Escape key is pressed during gameplay | 5.0 pts |
-| Pause menu resume and quit buttons highlight and unhighlight properly | 5.0 pts |
-| Pause menu resume button unpauses game and hides pause menu when clicked | 10.0 pts |
-| Pause menu quit button unpauses game, hides pause menu, and returns to main menu when clicked | 10.0 pts |
-| All balls in play speed up properly when speedup pickup is collected by either paddle | 10.0 pts |
-| Newly spawned balls are sped up properly when speedup effect is active | 10.0 pts |
-| Speedup duration increases for additional collected pickups | 10.0 pts |
-| All balls in play slow down properly when effect ends | 10.0 pts |
+| All buttons on all menus play sound (Note: the Quit button on the Main Menu doesn’t have to play a sound)  | 10.0 pts | 
+| Quit button on game over message plays sound | 5.0 pts | 
+| Sound effect when ball collides with ball |  5.0 pts |
+| Sound effect when ball collides with paddle |  5.0 pts |
+| Sound effect when ball is spawned | 5.0 pts |
+| HSound effect when ball is lost | 5.0 pts |
+| Sound effect when game is lost | 5.0 pts |
+| Sound effect when freezer effect activated | 5.0 pts |
+| Sound effect when freezer effect deactivated | 5.0 pts |
+| Sound effect when speedup effect activated | 5.0 pts |
+| Sound effect when speedup effect deactivated | 5.0 pts |
+| Game over message displayed and game paused when a player wins | 15.0 pts |
+| Game over message displays correct winner | 15.0 pts |
+| Game over message back button unpauses game and returns to main menu when clicked | 10.0 pts |
 | | Total Points: 100.0 |
 
 ### Main Menu & Help Menu
