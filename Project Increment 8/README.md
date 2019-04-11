@@ -9,7 +9,7 @@ The functionality from the previous increment and all the sound effects in your 
 | Sound effect when ball collides with ball |  5.0 pts |
 | Sound effect when ball collides with paddle |  5.0 pts |
 | Sound effect when ball is spawned | 5.0 pts |
-| HSound effect when ball is lost | 5.0 pts |
+| Sound effect when ball is lost | 5.0 pts |
 | Sound effect when game is lost | 5.0 pts |
 | Sound effect when freezer effect activated | 5.0 pts |
 | Sound effect when freezer effect deactivated | 5.0 pts |
