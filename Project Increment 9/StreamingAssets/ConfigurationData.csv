@@ -1,0 +1,2 @@
+paddle move units per second, ball impulse force, ball life seconds, min spawn delay, max spawn delay, standard ball points, standard ball hits, bonus ball points, bonus ball hits, freezer seconds, speedup seconds, speedup factor, standard ball probability, bonus ball probability, freezer pickup probability,speedup pickup probability 
+10,5,10,5,10,1,1,2,2,2,2,2,0.6f,0.2f,0.1f,0.1f
