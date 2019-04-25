@@ -24,17 +24,19 @@ The functionality from the previous increment and single player gameplay. Yes, t
 ![](PI10_2.gif)
 
 ### 2 player game (cont.)
-#### Pause functionality w/ resume and quit and Quit functionality from the main menu
+#### Pause menu functionality w/ resume and quit buttons
+#### Resume button functionality to start game again
+#### Quit button functionality to the main menu
 ![](PI10_3.gif)
 
 ### 1 player game
-#### Difficulty Menu, Back button functionality, Easy Difficulty 
+#### Difficulty Menu, Back button functionality, Easy Difficulty w/ AI
 ![](PI10_4.gif)
 
 ### 1 player game (cont.)
-#### Medium Difficulty 
+#### Medium Difficulty w/ AI
 ![](PI10_5.gif)
 
 ### 1 player game (cont.)
-#### Hard Difficulty 
+#### Hard Difficulty w/ AI
 ![](PI10_6.gif)
