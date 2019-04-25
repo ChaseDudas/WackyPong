@@ -4,12 +4,37 @@ The functionality from the previous increment and single player gameplay. Yes, t
 
 | Description       | Points          |
 | ------------- |:-------------:|
-| Configuration data stored in csv file   | 10.0 pts | 
-| Csv file includes all required values (Csv file contains values for paddle move units per second, ball impulse force, ball life seconds, min spawn delay, max spawn delay, standard ball points, standard ball hits, bonus ball points, bonus ball hits, freezer seconds, speedup seconds, speedup factor, standard ball probability, bonus ball probability, freezer pickup probability, and speedup pickup probability) | 20.0 pts | 
-| Csv file contained in StreamingAssets folder in Unity project |  10.0 pts |
-| ConfigurationData class reads from csv file to populate all fields correctly |  20.0 pts |
-| ConfigurationUtils class wraps ConfigurationData properties to provide static properties | 20.0 pts |
-| Other classes in game use ConfigurationUtils properties rather than hard-coding configuration values | 20.0 pts |
+| Main menu includes one player button that highlights and unhighlights properly and goes to difficulty menu when clicked   | 10.0 pts | 
+| Difficulty menu contains easy, medium, and hard buttons that highlight and unhighlight properly | 10.0 pts | 
+| Difficulty menu easy, medium, and hard buttons start a game of the appropriate difficulty when clicked |  10.0 pts |
+| Different game difficulties use appropriately different ball speeds |  10.0 pts |
+| Different game difficulties use appropriately different ball spawn rates | 10.0 pts |
+| Ball impulse forces and ball spawn rates for all three difficulties included in configuration csv file, ConfigurationData, and ConfigurationUtils | 10.0 pts |
+| Appropriate classes use ConfigurationUtils properties rather than hard-coding configuration values for ball impulse forces and ball spawn rates | 10.0 pts |
+| Computer paddle tries to center paddle on closest ball or pickup moving toward computer paddle | 10.0 pts |
+| Computer paddle doesn't jitter (The computer paddle doesn't jitter quickly up and down during centering. Computer paddle movement doesn't have to be smooth, it just shouldn't jitter up and down) | 10.0 pts |
+| Computer paddle stays clamped in playfield | 10.0 pts |
 | | Total Points: 100.0 |
 
+### Main Menu & Help Menu
 ![](PI10.gif)
+
+### 2 player game
+### Basic Functionality 
+![](PI10_2.gif)
+
+### 2 player game (cont.)
+#### Pause functionality w/ resume and quit and Quit functionality from the main menu
+![](PI10_3.gif)
+
+### 1 player game
+#### Difficulty Menu, Back button functionality, Easy Difficulty 
+![](PI10_4.gif)
+
+### 1 player game (cont.)
+#### Medium Difficulty 
+![](PI10_5.gif)
+
+### 1 player game (cont.)
+#### Hard Difficulty 
+![](PI10_6.gif)
