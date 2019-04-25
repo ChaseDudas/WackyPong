@@ -20,7 +20,7 @@ The functionality from the previous increment and single player gameplay. Yes, t
 ![](PI10.gif)
 
 ### 2 player game
-### Basic Functionality 
+### Basic Functionality w/ Game Over Message
 ![](PI10_2.gif)
 
 ### 2 player game (cont.)
