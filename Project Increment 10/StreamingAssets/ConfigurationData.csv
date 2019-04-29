@@ -1,0 +1,2 @@
+PaddleMoveUnitsPerSecond,BallLifeSeconds,StandardPoints,StandardHits,BonusPoints,BonusHits,FreezerSeconds,SpeedupSeconds,SpeedupFactor,StandardBallProbability,BonusBallProbability,FreezerPickupProbability,SpeedupPickupProbability,easyBallImpulseForce,mediumBallImpulseForce,hardBallImpulseForce,easyMinSpawnDelay,easyMaxSpawnDelay,mediumMinSpawnDelay,mediumMaxSpawnDelay,hardMinSpawnDelay,hardMaxSpawnDelay
+10,10,1,1,2,2,2,2,2,60,20,10,10,5,10,15,5,10,3,7,1,5
